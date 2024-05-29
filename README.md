@@ -1,4 +1,5 @@
-```python
+## Hey there! Thanks for stopping by! 👋
+``` python
 class BayleePreston:
 
     def about_me(self):
