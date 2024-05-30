@@ -1,4 +1,9 @@
-## Hey there! Thanks for stopping by! <img src="https://cdn3.emoji.gg/emojis/1130-junimojam.gif" height="27px">
+# Hey there! Thanks for stopping by! <img src="https://cdn3.emoji.gg/emojis/1130-junimojam.gif" height="30px">
+
+<a href="https://www.linkedin.com/in/baylee-preston-434927310/" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
 ``` python
 class BayleePreston:
 
@@ -16,3 +21,6 @@ class BayleePreston:
 me = BayleePreston()
 me.say_hi()
 ```
+
+## <img src="https://cdn3.emoji.gg/emojis/9160_white_butterfly.gif" height="25px"> GitHub Stats 
+<img src="https://myreadme.vercel.app/api/embed/brprest1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
