@@ -1,4 +1,4 @@
-## Hey there! Thanks for stopping by! 👋
+## Hey there! Thanks for stopping by! <img src="https://cdn3.emoji.gg/emojis/1130-junimojam.gif" height="27px">
 ``` python
 class BayleePreston:
 
@@ -11,7 +11,7 @@ class BayleePreston:
         self.hobbies = ["Playing video games", "Playing D&D", "Reading", "Crocheting"]
 
     def say_hi(self):
-        print("Hey there! Thanks for stopping by!")
+        print("Hey there! Thanks for stopping by! :junimojam:")
 
 me = BayleePreston()
 me.say_hi()
