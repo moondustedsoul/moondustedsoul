@@ -6,6 +6,12 @@
 <a href="mailto:brprest1@asu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://discordapp.com/users/182498323700121600/">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://asu.enterprise.slack.com/team/U04E0BQC0GZ">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</a> <br> </br>
 
 
 ``` python
