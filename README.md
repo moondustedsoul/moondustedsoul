@@ -11,9 +11,9 @@
 </a>
 <a href="https://asu.enterprise.slack.com/team/U04E0BQC0GZ">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</a> <br> </br>
+</a>
 
-
+## <img src="https://cdn3.emoji.gg/emojis/1423-whiterollingstar.gif" height="25px"> About Me
 ``` python
 class BayleePreston:
 
@@ -33,4 +33,4 @@ me.say_hi()
 ```
 
 ## <img src="https://cdn3.emoji.gg/emojis/9160_white_butterfly.gif" height="25px"> GitHub Stats 
-<img src="https://myreadme.vercel.app/api/embed/brprest1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://raw.githubusercontent.com/brprest1/github-stats-transparent/output/generated/overview.svg"><img src="https://raw.githubusercontent.com/brprest1/github-stats-transparent/output/generated/languages.svg">
