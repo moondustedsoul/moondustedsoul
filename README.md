@@ -15,7 +15,7 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/1423-whiterollingstar.gif" height="25px"> About Me
 ``` python
-class moondustedsoul:
+class MoondustedSoul:
 
     def about_me(self):
         self.pronouns = ["he/him/his", "they/them/theirs", "it/it/its"]
@@ -27,7 +27,7 @@ class moondustedsoul:
     def say_hi(self):
         print("Hey there! Thanks for stopping by! :junimojam:")
 
-me = moondustedsoul()
+me = MoondustedSoul()
 me.say_hi()
 ```
 
