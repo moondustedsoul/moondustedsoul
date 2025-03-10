@@ -30,6 +30,3 @@ class MoondustedSoul:
 me = MoondustedSoul()
 me.say_hi()
 ```
-
-## <img src="https://cdn3.emoji.gg/emojis/9160_white_butterfly.gif" height="25px"> GitHub Stats 
-<img src="https://raw.githubusercontent.com/brprest1/github-stats-transparent/output/generated/overview.svg"><img src="https://raw.githubusercontent.com/brprest1/github-stats-transparent/output/generated/languages.svg">
