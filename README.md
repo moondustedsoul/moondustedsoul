@@ -15,20 +15,19 @@
 
 ## <img src="https://cdn3.emoji.gg/emojis/1423-whiterollingstar.gif" height="25px"> About Me
 ``` python
-class BayleePreston:
+class moondustedsoul:
 
     def about_me(self):
-        self.name = "Baylee Preston"
-        self.pronouns = ["he/him/his", "they/them/theirs"]
+        self.pronouns = ["he/him/his", "they/them/theirs", "it/it/its"]
         self.role = "Full-Stack Web Development Student at ASU"
-        self.languages_learning = ["Python", "HTML", "CSS"]
+        self.languages_learning = ["Python", "HTML", "CSS", "Java"]
         self.dream_job = "Video Game Developer"
         self.hobbies = ["Playing video games", "Playing D&D", "Reading", "Crocheting"]
 
     def say_hi(self):
         print("Hey there! Thanks for stopping by! :junimojam:")
 
-me = BayleePreston()
+me = moondustedsoul()
 me.say_hi()
 ```
 
